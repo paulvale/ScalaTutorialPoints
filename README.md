@@ -1,0 +1,2 @@
+# ScalaTutorialPoints
+Tutorial on scala
